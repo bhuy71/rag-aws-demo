@@ -1,0 +1,13 @@
+langchain>=0.2.14
+langchain-aws>=0.1.11
+langchain-community>=0.2.11
+boto3>=1.34.0
+botocore>=1.34.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+psycopg2-binary>=2.9.9
+s3fs>=2024.6.0
+tqdm>=4.66.0
+pydantic-settings>=2.2.1
+unstructured=0.18.3
